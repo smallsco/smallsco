@@ -5,7 +5,6 @@
 ╚════██║██║     ██║   ██║   ██║      ██║       ╚════██║██║╚██╔╝██║██╔══██║██║     ██║     
 ███████║╚██████╗╚██████╔╝   ██║      ██║       ███████║██║ ╚═╝ ██║██║  ██║███████╗███████╗
 ╚══════╝ ╚═════╝ ╚═════╝    ╚═╝      ╚═╝       ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
-                                                                                          
 ```
 I am a software architect specializing in building distributed web applications.
 
@@ -13,7 +12,7 @@ With over fifteen years of web development experience, I can construct technical
 
 When I'm not hacking away at work (or on a side project), I fuel a passion for travel. Having experienced four continents and over twenty-six countries (as of 2020), I strongly believe in the mantra "the journey is the reward".
 
-## Things that get me excited: <img align="left" width="175" height="175" src="https://raw.githubusercontent.com/smallsco/smallsco/master/octocat.gif">
+## Things that get me excited: <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/smallsco/smallsco/master/octocat.gif">
 
 - Software architecture and system design
 - Big Data and solving challenging scalability problems
