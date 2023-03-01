@@ -19,4 +19,4 @@ When I'm not hacking away at work (or on a side project), I fuel a passion for t
 - Programming in Lua, Python, and PHP
 - Databases (PostgreSQL, Redis, DynamoDB)
 - Technical leadership and mentorship; bringing out the best in the team
-- Learning new technologies
+- Retro computing and retro programming
